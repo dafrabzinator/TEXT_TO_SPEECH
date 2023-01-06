@@ -1,0 +1,1 @@
+here's this project by Orosunlegan Oluwabusayo Stephen (dafrabzinator) that converts words to text in python all thanks to GAIL Cleaver, Beth Barrack, Bingo Nightly, Emily Webber, and Sharon Counts. Finally, Special thanks to Casey Cromwell. Radio Lab is produced by WNYC New York public radio, and distributed by NPR, National Public Radio. 
