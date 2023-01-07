@@ -1,7 +1,7 @@
-When executed the text from abc.txt will be turned into an mp3, saved and then played on your device.
+When executed the text from frabswords.txt will be turned into an mp3, saved and then played on your device.
 
 Prerequisites
-abc.txt with your text
+frabswords.txt with your text
 the gTTS==2.1.1 module (pip install gTTS to download)
 the os module (pip install os)
 How to run the script
