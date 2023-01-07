@@ -5,4 +5,4 @@ frabswords.txt with your text
 the gTTS==2.1.1 module (pip install gTTS to download)
 the os module (pip install os)
 How to run the script
-Write your desired text into the abc.txt file then execute the txtToSpeech.py file. This can be done by typing 'python txtToSpeech.py' into your Terminal.
+Write your desired text into the frabswords.txt file then execute the text_To_Speech.py file. This can be done by typing 'python text_To_Speech.py' into your Terminal.
