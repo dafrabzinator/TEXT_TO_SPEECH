@@ -27,6 +27,8 @@ This script can be customized to work with different input files and languages. 
 ### License
 This script is released under the MIT license. See the LICENSE file for more details.
 ## Author
--[dafrabzinator](linkedin.com/in/oluwabusayomi-s-orosunlegan-6a0144263).
--[twitter](https://twitter.com/dafrabs).
--[email](oluwabusayomidafrabzinator@gmail.com).
+- [dafrabzinator](linkedin.com/in/oluwabusayomi-s-orosunlegan-6a0144263) on linkedin 
+
+- [twitter](https://twitter.com/dafrabs)
+
+- [email](oluwabusayomidafrabzinator@gmail.com)
