@@ -21,9 +21,11 @@ To use this script, follow these steps:
 ###Customization
 This script can be customized to work with different input files and languages. Here are some examples:
 - To use a different input file, update the`frabswords.txt variable in the script to point to your file.
-- To use a different language, update the lang variable in the script to the appropriate language code. You can `:mag:` a list of language codes in the [gTTS documentation.](https://gtts.readthedocs.io/en/latest/lang.html)
+- To use a different language, update the lang variable in the script to the appropriate language code. You can search a list of language codes in the [gTTS documentation.](https://gtts.readthedocs.io/en/latest/lang.html)
 - To change the output file name, update the speech.save() method in the script method. For example, to save the output as a WAV file, use speech.save(`voice.wav`).
 ### License
 This script is released under the MIT license. See the LICENSE file for more details.
 ## Author
-[dafrabzinator](linkedin.com/in/oluwabusayomi-s-orosunlegan-6a0144263) [twitter](https://twitter.com/dafrabs) [email](oluwabusayomidafrabzinator@gmail.com)
+-[dafrabzinator](linkedin.com/in/oluwabusayomi-s-orosunlegan-6a0144263)
+-[twitter](https://twitter.com/dafrabs) 
+-[email](oluwabusayomidafrabzinator@gmail.com)
